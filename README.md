@@ -1,5 +1,5 @@
 # About Me:
-- 👋 Hi, I'm Hugh! I'm a software engineer with a love for the world of finance.
+- 👋 Hi, I'm Hugh! I'm a software engineer who builds things for finance bros.
 - 🎓 BA in Computer Science + Finance '26 at Northeastern
 - 🏋️ On the road to a 315 bench
 
